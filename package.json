@@ -1,0 +1,20 @@
+{
+  "name": "proyectoingenieria2",
+  "version": "1.0.0",
+  "description": "proyecto final ingenieria de software dos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Quirama",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.20"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
